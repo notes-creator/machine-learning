@@ -1,0 +1,6 @@
+---
+description: Konsep RNN
+---
+
+# RNN
+
